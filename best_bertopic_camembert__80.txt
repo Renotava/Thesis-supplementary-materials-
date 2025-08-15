@@ -1,0 +1,144 @@
+Created dictionary with 1287 terms
+
+=== Running grid search with embedding: camembert ===
+
+==================================================
+Trying params: {'min_topic_size': 2, 'n_gram_range': (1, 1), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 229, 1: 10, 2: 7, 3: 4, 4: 3, -1: 79}
+
+Topics for this model:
+Coherence: 0.6029, Diversity: 0.5800
+Topic 0:
+fonctionnement, remplacement, suite, installation, unite, test, cas, jour, site, depart
+Topic 1:
+depart, probleme, installation, suite, jour, fonctionnement, technicien, traitant, arrivee, fonctionnel
+Topic 2:
+lundi, site, cas, , , , , , ,
+Topic 3:
+attente, rit, maintenance, , , , , , ,
+Topic 4:
+secafi, planifiee, planification, date, confirmation, cours, acce, telephoniqu, demande, attente
+
+ NEW BEST MODEL FOUND!
+
+==================================================
+Trying params: {'min_topic_size': 2, 'n_gram_range': (1, 1), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 223, 1: 23, 2: 12, 3: 6, 4: 4, 5: 3, -1: 61}
+
+Topics for this model:
+Coherence: 0.5533, Diversity: 0.6000
+Topic 0:
+climatisation, fonctionnement, suite, remplacement, controle, unite, installation, defaut, jour, moteur
+Topic 1:
+moteur, ventilateur, condensateur, remplacement, controle, fonctionnement, evaporateur, bon, installation, mise       
+Topic 2:
+depart, suite, probleme, installation, fonctionnement, jour, technicien, traitant, arrivee, fonctionnel
+Topic 3:
+action, lundi, site, , , , , , ,
+Topic 4:
+attente, rit, maintenance, , , , , , ,
+Topic 5:
+secafi, planifiee, planification, date, cours, telephoniqu, demande, attente, clim, suite
+
+==================================================
+Trying params: {'min_topic_size': 3, 'n_gram_range': (1, 1), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 201, 1: 16, 2: 7, 3: 5, 4: 4, -1: 99}
+
+Topics for this model:
+Coherence: 0.3708, Diversity: 0.5800
+Topic 0:
+fonctionnement, suite, remplacement, climatisation, esclave, cas, depart, site, test, defaut
+Topic 1:
+climatisation, echange, suite, personnel, traitant, depart, test, bon, remontee, technicien
+Topic 2:
+action, lundi, societe, site, cas, , , , ,
+Topic 3:
+pressostat, sonde, test, remplacement, fonctionnement, horloge, constat, air, carte, bon
+Topic 4:
+attente, rit, maintenance, societe, , , , , ,
+
+==================================================
+Trying params: {'min_topic_size': 3, 'n_gram_range': (1, 1), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 185, 1: 27, 2: 16, 3: 7, 4: 5, 5: 4, -1: 88}
+
+Topics for this model:
+Coherence: 0.4576, Diversity: 0.6333
+Topic 0:
+fonctionnement, remplacement, suite, controle, climatisation, installation, moteur, esclave, jour, unite
+Topic 1:
+climatisation, cause, fonction, echange, suite, marche, nominal, supervision, attent, clim
+Topic 2:
+depart, technicien, suite, installation, probleme, fonctionnement, traitant, jour, fonctionnel, date
+Topic 3:
+action, lundi, societe, site, , , , , ,
+Topic 4:
+planification, date, cours, secafi, climatisation, nouveau, prochain, attente, planifiee, suite
+Topic 5:
+attente, rit, maintenance, societe, , , , , ,
+
+==================================================
+Trying params: {'min_topic_size': 4, 'n_gram_range': (1, 1), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 162, 1: 39, 2: 15, 3: 11, 4: 7, -1: 98}
+
+Topics for this model:
+Coherence: 0.3394, Diversity: 0.7400
+Topic 0:
+suite, controle, installation, climatisation, jour, moteur, compresseur, esclave, unite, ventilateur
+Topic 1:
+climatisation, suite, condenseur, clim, verification, cause, rit, compresseur, fonction, ventilo
+Topic 2:
+depart, suite, installation, probleme, technicien, jour, demande, fonctionnel, operationnell, prevision
+Topic 3:
+rit, societe, maintenance, action, lundi, , , , ,
+Topic 4:
+pressostat, sonde, controle, compresseur, bar, hygrometrie, surchauffe, historique, horloge, constat
+
+==================================================
+Trying params: {'min_topic_size': 4, 'n_gram_range': (1, 1), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 146, 1: 25, 2: 18, 3: 15, 4: 11, 5: 7, -1: 110}
+
+Topics for this model:
+Coherence: 0.3942, Diversity: 0.7500
+Topic 0:
+climatisation, suite, esclave, unite, controle, installation, jour, ventilateur, soufflage, nouveau
+Topic 1:
+condenseur, moteur, installation, ventilateur, condensateur, controle, evaporateur, depart, nettoyage, soufflage      
+Topic 2:
+piece, attente, suite, alarme, crsi, reparation, jour, date, maintenance, programme
+Topic 3:
+depart, suite, technicien, installation, probleme, jour, fonctionnel, operationnell, prevision, arrivee
+Topic 4:
+attente, rit, societe, maintenance, action, lundi, site, , ,
+Topic 5:
+pressostat, sonde, controle, bon, compresseur, bar, 230v, surchauffe, historique, deshydrateur
+
+
+
+
+
+
+Embedding: camembert
+Best BERTopic Parameters:
+Coherence Score: 0.6029
+Topic Diversity: 0.5800
+min_topic_size: 2
+n_gram_range: (1, 1)
+nr_topics: 6
+
+Best BERTopic Topics:
+Topic 0:
+fonctionnement, remplacement, suite, installation, unite, test, cas, jour, site, depart
+Topic 1:
+depart, probleme, installation, suite, jour, fonctionnement, technicien, traitant, arrivee, fonctionnel
+Topic 2:
+lundi, site, cas, , , , , , , 
+Topic 3:
+attente, rit, maintenance, , , , , , , 
+Topic 4:
+secafi, planifiee, planification, date, confirmation, cours, acce, telephoniqu, demande, attente

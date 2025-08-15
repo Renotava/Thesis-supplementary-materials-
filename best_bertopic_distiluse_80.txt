@@ -1,0 +1,19 @@
+Embedding: distiluse
+Best BERTopic Parameters:
+Coherence Score: 0.3553
+Topic Diversity: 0.8600
+min_topic_size: 3
+n_gram_range: (1, 1)
+nr_topics: 6
+
+Best BERTopic Topics:
+Topic 0:
+controle, remplacement, installation, moteur, esclave, ventilateur, soufflage, cas, defaut, compresseur
+Topic 1:
+test, site, remplacement, attente, piece, alarme, jour, date, clim, numéro
+Topic 2:
+secafi, attente, planifiee, fonctionnel, rit, societe, planification, date, maintenance, devoir
+Topic 3:
+installation, test, jour, frottement, remplacement, arrivee, actuel, carte, evacuation, neutre
+Topic 4:
+operationnelle, observation, secours, reglage, telecommand, climatiseur, depannage, verification, nouveau, 
