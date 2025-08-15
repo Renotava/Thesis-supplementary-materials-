@@ -1,0 +1,19 @@
+Best NMF Parameters:
+Coherence Score: 0.6592
+Topic Diversity: 0.9500
+n_gram_range: (1, 2)
+n_topics: 6
+
+Best NMF Topics:
+Topic 0:
+installation, unite, installation fonctionnement, condenseur, soufflage, controle, depart, depart installation, arrivee, arrivee installation
+Topic 1:
+climatisation, suite, suite intervention, defaut, probleme, test, intervention climatisation, climatisation numéro, fonctionnement climatisation, site
+Topic 2:
+traitant, suite traitant, piece, suite, depart technicien, technicien, fonctionnement depart, depart, jour, traitant climatisation
+Topic 3:
+moteur, ventilateur, remplacement, moteur ventilateur, evaporateur, condensateur, ventilateur evaporateur, remplacement moteur, bon fonctionnement, bon
+Topic 4:
+compresseur, kilogramme, fuite, charge, fluide, azote, pression, recuperation, controle, tirage
+Topic 5:
+cas, intervention cas, sonde, societ, cours, societ cas, nouveau, regulateur, alarme, nouveau intervention

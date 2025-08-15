@@ -1,0 +1,275 @@
+
+Found 344 climatisation entries
+Processed 344 text entries
+Created dictionary with 1627 terms
+Starting grid search...
+Adaptive min_doc_count: 3
+
+==================================================
+Trying params: {'min_topic_size': 2, 'n_gram_range': (1, 1), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 121, 1: 80, 2: 21, 3: 11, 4: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.3757, Diversity: 0.9000
+Topic 0:
+unite, centre, compresseur, temperature, nouveau, condensateur, froid, evaporateur, maitr, pression
+Topic 1:
+centre, filtre, place, pression, secafi, local, haute, temperature, condenseur, attente
+Topic 2:
+condensateur, volet, evaporateur, ferme, position, freecooling, depannage, anormal, armoire, soufflage
+Topic 3:
+annuel, pressostat, compte, preventive, anomalie, paramelle, oblige, creation, horloge, demande
+Topic 4:
+supervision, analyse, coffret, validation, infra, echange, bout, acquisition, relais, moment
+
+ NEW BEST MODEL FOUND!
+
+==================================================
+Trying params: {'min_topic_size': 2, 'n_gram_range': (1, 1), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 121, 1: 54, 2: 26, 3: 21, 4: 11, 5: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.4172, Diversity: 0.8667
+Topic 0:
+unite, controle, centre, compresseur, moteur, temperature, nouveau, condensateur, ventilateur, froid
+Topic 1:
+filtre, centre, secafi, pression, condenseur, coupure, controle, place, pressostat, haute
+Topic 2:
+arrete, souffl, local, accord, group, temperatur, supervision, declenche, releve, attente
+Topic 3:
+moteur, ventilateur, condensateur, volet, controle, evaporateur, ferme, position, freecooling, depannage
+Topic 4:
+annuel, pressostat, compte, preventiv, preventive, anomalie, paramelle, oblige, creation, constat
+Topic 5:
+supervision, ouverture, analyse, coffret, validation, infra, echange, bout, acquisition, relais
+
+ NEW BEST MODEL FOUND!
+
+==================================================
+Trying params: {'min_topic_size': 2, 'n_gram_range': (1, 2), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 121, 1: 80, 2: 21, 3: 11, 4: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.3757, Diversity: 0.9000
+Topic 0:
+unite, centre, compresseur, temperature, nouveau, condensateur, froid, evaporateur, maitr, pression
+Topic 1:
+centre, filtre, place, pression, secafi, local, haute, temperature, condenseur, attente
+Topic 2:
+condensateur, volet, evaporateur, ferme, position, freecooling, depannage, anormal, armoire, soufflage
+Topic 3:
+annuel, pressostat, compte, preventive, anomalie, paramelle, oblige, creation, horloge, demande
+Topic 4:
+supervision, analyse, coffret, validation, infra, echange, bout, acquisition, relais, moment
+
+==================================================
+Trying params: {'min_topic_size': 2, 'n_gram_range': (1, 2), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 121, 1: 54, 2: 26, 3: 21, 4: 11, 5: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.4172, Diversity: 0.8667
+Topic 0:
+unite, controle, centre, compresseur, moteur, temperature, nouveau, condensateur, ventilateur, froid
+Topic 1:
+filtre, centre, secafi, pression, condenseur, coupure, controle, place, pressostat, haute
+Topic 2:
+arrete, souffl, local, accord, group, temperatur, supervision, declenche, releve, attente
+Topic 3:
+moteur, ventilateur, condensateur, volet, controle, evaporateur, ferme, position, freecooling, depannage
+Topic 4:
+annuel, pressostat, compte, preventiv, preventive, anomalie, paramelle, oblige, creation, constat
+Topic 5:
+supervision, ouverture, analyse, coffret, validation, infra, echange, bout, acquisition, relais
+
+==================================================
+Trying params: {'min_topic_size': 3, 'n_gram_range': (1, 1), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 121, 1: 80, 2: 21, 3: 11, 4: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.3757, Diversity: 0.9000
+Topic 0:
+unite, centre, compresseur, temperature, nouveau, condensateur, froid, evaporateur, maitr, pression
+Topic 1:
+centre, filtre, place, pression, secafi, local, haute, temperature, condenseur, attente
+Topic 2:
+condensateur, volet, evaporateur, ferme, position, freecooling, depannage, anormal, armoire, soufflage
+Topic 3:
+annuel, pressostat, compte, preventive, anomalie, paramelle, oblige, creation, horloge, demande
+Topic 4:
+supervision, analyse, coffret, validation, infra, echange, bout, acquisition, relais, moment
+
+==================================================
+Trying params: {'min_topic_size': 3, 'n_gram_range': (1, 1), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 121, 1: 54, 2: 26, 3: 21, 4: 11, 5: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.4172, Diversity: 0.8667
+Topic 0:
+unite, controle, centre, compresseur, moteur, temperature, nouveau, condensateur, ventilateur, froid
+Topic 1:
+filtre, centre, secafi, pression, condenseur, coupure, controle, place, pressostat, haute
+Topic 2:
+arrete, souffl, local, accord, group, temperatur, supervision, declenche, releve, attente
+Topic 3:
+moteur, ventilateur, condensateur, volet, controle, evaporateur, ferme, position, freecooling, depannage
+Topic 4:
+annuel, pressostat, compte, preventiv, preventive, anomalie, paramelle, oblige, creation, constat
+Topic 5:
+supervision, ouverture, analyse, coffret, validation, infra, echange, bout, acquisition, relais
+
+==================================================
+Trying params: {'min_topic_size': 3, 'n_gram_range': (1, 2), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 121, 1: 80, 2: 21, 3: 11, 4: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.3757, Diversity: 0.9000
+Topic 0:
+unite, centre, compresseur, temperature, nouveau, condensateur, froid, evaporateur, maitr, pression
+Topic 1:
+centre, filtre, place, pression, secafi, local, haute, temperature, condenseur, attente
+Topic 2:
+condensateur, volet, evaporateur, ferme, position, freecooling, depannage, anormal, armoire, soufflage
+Topic 3:
+annuel, pressostat, compte, preventive, anomalie, paramelle, oblige, creation, horloge, demande
+Topic 4:
+supervision, analyse, coffret, validation, infra, echange, bout, acquisition, relais, moment
+
+==================================================
+Trying params: {'min_topic_size': 3, 'n_gram_range': (1, 2), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 121, 1: 54, 2: 26, 3: 21, 4: 11, 5: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.4172, Diversity: 0.8667
+Topic 0:
+unite, controle, centre, compresseur, moteur, temperature, nouveau, condensateur, ventilateur, froid
+Topic 1:
+filtre, centre, secafi, pression, condenseur, coupure, controle, place, pressostat, haute
+Topic 2:
+arrete, souffl, local, accord, group, temperatur, supervision, declenche, releve, attente
+Topic 3:
+moteur, ventilateur, condensateur, volet, controle, evaporateur, ferme, position, freecooling, depannage
+Topic 4:
+annuel, pressostat, compte, preventiv, preventive, anomalie, paramelle, oblige, creation, constat
+Topic 5:
+supervision, ouverture, analyse, coffret, validation, infra, echange, bout, acquisition, relais
+
+==================================================
+Trying params: {'min_topic_size': 4, 'n_gram_range': (1, 1), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 121, 1: 80, 2: 21, 3: 11, 4: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.3757, Diversity: 0.9000
+Topic 0:
+unite, centre, compresseur, temperature, nouveau, condensateur, froid, evaporateur, maitr, pression
+Topic 1:
+centre, filtre, place, pression, secafi, local, haute, temperature, condenseur, attente
+Topic 2:
+condensateur, volet, evaporateur, ferme, position, freecooling, depannage, anormal, armoire, soufflage
+Topic 3:
+annuel, pressostat, compte, preventive, anomalie, paramelle, oblige, creation, horloge, demande
+Topic 4:
+supervision, analyse, coffret, validation, infra, echange, bout, acquisition, relais, moment
+
+==================================================
+Trying params: {'min_topic_size': 4, 'n_gram_range': (1, 1), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 121, 1: 54, 2: 26, 3: 21, 4: 11, 5: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.4172, Diversity: 0.8667
+Topic 0:
+unite, controle, centre, compresseur, moteur, temperature, nouveau, condensateur, ventilateur, froid
+Topic 1:
+filtre, centre, secafi, pression, condenseur, coupure, controle, place, pressostat, haute
+Topic 2:
+arrete, souffl, local, accord, group, temperatur, supervision, declenche, releve, attente
+Topic 3:
+moteur, ventilateur, condensateur, volet, controle, evaporateur, ferme, position, freecooling, depannage
+Topic 4:
+annuel, pressostat, compte, preventiv, preventive, anomalie, paramelle, oblige, creation, constat
+Topic 5:
+supervision, ouverture, analyse, coffret, validation, infra, echange, bout, acquisition, relais
+
+==================================================
+Trying params: {'min_topic_size': 4, 'n_gram_range': (1, 2), 'nr_topics': 6}
+==================================================
+Topic distribution: {0: 121, 1: 80, 2: 21, 3: 11, 4: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.3757, Diversity: 0.9000
+Topic 0:
+unite, centre, compresseur, temperature, nouveau, condensateur, froid, evaporateur, maitr, pression
+Topic 1:
+centre, filtre, place, pression, secafi, local, haute, temperature, condenseur, attente
+Topic 2:
+condensateur, volet, evaporateur, ferme, position, freecooling, depannage, anormal, armoire, soufflage
+Topic 3:
+annuel, pressostat, compte, preventive, anomalie, paramelle, oblige, creation, horloge, demande
+Topic 4:
+supervision, analyse, coffret, validation, infra, echange, bout, acquisition, relais, moment
+
+==================================================
+Trying params: {'min_topic_size': 4, 'n_gram_range': (1, 2), 'nr_topics': 7}
+==================================================
+Topic distribution: {0: 121, 1: 54, 2: 26, 3: 21, 4: 11, 5: 10, -1: 101}
+
+Topics for this model:
+Coherence: 0.4172, Diversity: 0.8667
+Topic 0:
+unite, controle, centre, compresseur, moteur, temperature, nouveau, condensateur, ventilateur, froid
+Topic 1:
+filtre, centre, secafi, pression, condenseur, coupure, controle, place, pressostat, haute
+Topic 2:
+arrete, souffl, local, accord, group, temperatur, supervision, declenche, releve, attente
+Topic 3:
+moteur, ventilateur, condensateur, volet, controle, evaporateur, ferme, position, freecooling, depannage
+Topic 4:
+annuel, pressostat, compte, preventiv, preventive, anomalie, paramelle, oblige, creation, constat
+Topic 5:
+supervision, ouverture, analyse, coffret, validation, infra, echange, bout, acquisition, relai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best BERTopic Parameters:
+Coherence Score: 0.4172
+Topic Diversity: 0.8667
+min_topic_size: 2
+n_gram_range: (1, 1)
+nr_topics: 7
+
+Best BERTopic Topics:
+Topic 0:
+unite, controle, centre, compresseur, moteur, temperature, nouveau, condensateur, ventilateur, froid
+Topic 1:
+filtre, centre, secafi, pression, condenseur, coupure, controle, place, pressostat, haute
+Topic 2:
+arrete, souffl, local, accord, group, temperatur, supervision, declenche, releve, attente
+Topic 3:
+moteur, ventilateur, condensateur, volet, controle, evaporateur, ferme, position, freecooling, depannage
+Topic 4:
+annuel, pressostat, compte, preventiv, preventive, anomalie, paramelle, oblige, creation, constat
+Topic 5:
+supervision, ouverture, analyse, coffret, validation, infra, echange, bout, acquisition, relais
