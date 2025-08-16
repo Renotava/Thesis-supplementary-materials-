@@ -1,0 +1,15 @@
+Best parameters found: {'colsample_bytree': 1.0, 'eval_metric': 'mlogloss', 'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50, 'subsample': 0.8}
+
+                                 precision    recall  f1-score   support
+
+                   Aucun défaut       0.80      1.00      0.89         4
+Composant thermique/Hydraulique       0.93      0.93      0.93        29
+                      Entretien       1.00      0.75      0.86         4
+                      Mécanique       1.00      1.00      1.00         5
+                       Réglages       0.91      1.00      0.95        10
+                     Électrique       0.50      0.50      0.50         2
+                   Électronique       1.00      0.88      0.93         8
+
+                       accuracy                           0.92        62
+                      macro avg       0.88      0.87      0.87        62
+                   weighted avg       0.92      0.92      0.92        62
