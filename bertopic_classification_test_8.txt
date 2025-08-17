@@ -1,0 +1,13 @@
+                                 precision    recall  f1-score   support
+
+                   Aucun défaut       0.00      0.00      0.00         4
+Composant thermique/Hydraulique       0.50      1.00      0.67        30
+                      Entretien       0.00      0.00      0.00         3
+                      Mécanique       0.00      0.00      0.00         5
+                       Réglages       0.00      0.00      0.00        10
+                     Électrique       0.00      0.00      0.00         2
+                   Électronique       1.00      0.25      0.40         8
+
+                       accuracy                           0.52        62
+                      macro avg       0.21      0.18      0.15        62
+                   weighted avg       0.37      0.52      0.37        62
